@@ -33,7 +33,7 @@ export default function Footer() {
          </div>
        </div>
 
-       <div className='mt-8 border-t border-gray-700 pt-4 text-center text-sm'>
+       <div className='mt-8 border-t border-gray-700 pt-4 text-white text-center text-sm'>
          &copy {new Date().getFullYear()} Aadyaa Soni. All rights reserved.
        </div>
     </footer>
