@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "MERN E-Commerce Website",
+    "description": "Full-stack e-commerce site with cart, orders, admin panel.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcI3liz4WZWQwpYyENgHz8dvit8xFylliTmg&s",
+    "link": "https://github.com/your-project"
+  },
+  {
+    "id": 2,
+    "title": "Task Manager App",
+    "description": "React app to track tasks with localStorage integration.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3cinEIwajvdhB7inoos2TTkLI3gwc76xkA&s",
+    "link": "https://example.com"
+  }
+]
