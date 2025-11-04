@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className='bg-gray-900 text-gary-300 py-8 mt-12'>
        <div className='container mx-auto px-6 md:px-12 grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left'>
           <h2 className='text-2xl font-semibold text-white'>Aadyaa's Portfolio</h2>
-          <p className='mt-2 text-sm'>
+          <p className='mt-2 text-sm text-white'>
             Showcasing my skills and projects as a MERN stack Developer.
             Let's build something amazing together!
           </p>
